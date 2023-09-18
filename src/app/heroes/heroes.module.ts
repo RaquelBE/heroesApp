@@ -26,7 +26,7 @@ import { ReactiveFormsModule } from '@angular/forms';
   ],
   imports: [
     CommonModule,
-    ReactiveFormsModule,
+    ReactiveFormsModule, //search-page.component.ts linea 16
     HeroesRoutingModule,
     MaterialModule,
   ]
