@@ -1,3 +1,3 @@
 export const environments = {
-  baseURL: 'http://raquel-blazquez.com/api',
+  baseUrl: 'http://raquel-blazquez.com/api',
 };
