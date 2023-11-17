@@ -1,3 +1,3 @@
 export const environments = {
-  baseUrl: 'http://raquel-blazquez.com/api',
+  baseUrl: 'https://heroes-app-json-server-henna.vercel.app',
 };
